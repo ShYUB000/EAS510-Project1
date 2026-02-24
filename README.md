@@ -56,6 +56,8 @@ This project demonstrates how combining: Metadata analysis, Statistical similari
 The main reflection: no single rule is reliable alone, robust matching requires combining complementary techniques.
 V2 clearly outperforms V1 in both robustness and accuracy.
 
+## Some of the code is based on AI. Please consider it as appropriate.
+
 ## V1 Evaluation
 
 <img src="v1_result.png" width="800">
